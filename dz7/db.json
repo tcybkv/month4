@@ -1,0 +1,19 @@
+{
+  "lists": [
+    {
+      "id": "0eba",
+      "title": "learn css",
+      "status": false
+    },
+    {
+      "id": "302c",
+      "title": "learn java",
+      "status": false
+    },
+    {
+      "id": "79c2",
+      "title": "learn react",
+      "status": false
+    }
+  ]
+}
